@@ -1,0 +1,5 @@
+{
+    "BASTION": {
+        "PEM_KEY_NAME": "gestionkey"
+    }
+}
